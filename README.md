@@ -70,7 +70,7 @@ src
 ```
 
 ## Author
-Mahesh
+Banoth Mahesh
 
 ## Future Enhancements
 - Cast Vote Feature
